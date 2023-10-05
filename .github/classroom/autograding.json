@@ -1,0 +1,214 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/00HelloWorld",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Operaciones Básicas",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01OperacionesBasicas",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Área triángulo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02AreaTriangulo",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Promedio Calificaciones",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/03Promedio",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calcula tiempo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04CalculaTiempo",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calcula lustros",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05Lustros",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Peso por mes",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06Peso",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Pendiente línea",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/07PendienteLinea",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Caracol",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/08Caracol",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Teléfono",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/09Telefono",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Videojuego",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/10Videojuego",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "PEMDAS",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/11PEMDAS",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Cantidad de litros de pintura",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/13CantidadLitrosPintura",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Distancia dos puntos",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/14DistanciaDosPuntos",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Escalera",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/15Escalera",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Razón aurea",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/17RazonAurea",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Cuenta bancaria",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/18CuentaBancaria",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Editorial",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/19Editorial",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Acertijo edad",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/20AcertijoEdad",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Levadura para pizza",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/21LevaduraParaPizza",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Dígitos pares",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/22DigitosPares",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
